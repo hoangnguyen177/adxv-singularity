@@ -1,6 +1,6 @@
 Generate a singularity container for adxv
 
-
+  ```xml
   <Menu>
     <Name>Crystallography Tools</Name>
     <Directory>cvl-crystallography.directory</Directory>
@@ -10,3 +10,4 @@ Generate a singularity container for adxv
       </And>
     </Include>
   </Menu>
+  ```
