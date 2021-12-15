@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Exec=/scratch/cvl-admin/bin/adxv.sh
+# You will need to update this to the right icon name/type
+Icon=
+Name=Adxv
+StartupNotify=true
+Type=Application
+Categories=Crystallography
+X-KDE-SubstituteUID=false
+X-KDE-Username=
